@@ -3,24 +3,15 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-
-* Phone: [+91-123123](tel:+91-123123)
+* Email: [jeeweon.jung@navercorp.com](mailto:jeeweon.jung@navercorp.com)
 
 ---
 
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
-
----
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [Google Scholar](https://scholar.google.com/citations?user=A5OcLdAAAAAJ)
+
+2. [ResearchGate](https://www.researchgate.net/profile/Jee-Weon-Jung-2)
+
+3. [LinkedIn](https://www.linkedin.com/in/jee-weon-jung-6b125bba/)

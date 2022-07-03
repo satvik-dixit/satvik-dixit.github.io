@@ -9,7 +9,7 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_text: "Designed by Ankit Sultana, adapted by Jee-weon Jung."
 
 sass:
     style: compressed
@@ -19,6 +19,8 @@ nav:
  - name: "About"
    link: "./"
  - name: "Resume"
-   link: "resume.pdf"
+   link: "CV_Jee-weon_Jung_20220703.pdf"
+ - name: "GitHub"
+   link: "https://github.com/Jungjee"
  - name: "Contact"
    link: "contact"
