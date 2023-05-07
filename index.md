@@ -2,9 +2,12 @@
 layout: default
 ---
 
-## About Me
+## Professional experience
 
-Jee-weon Jung is a research scientist at Naver Clova.
+- Postdoctoral research associate at Carnegie Mellon Univerisy
+  - May 2023 - Present
+- Jee-weon Jung is a research scientist at Naver Clova.
+  - December 2020 - April 2023
 
 ## Selected Publications
 Refer to my CV for full list of publications.
