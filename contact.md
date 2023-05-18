@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-* Email: [jeeweon.jung@navercorp.com](mailto:jeeweon.jung@navercorp.com)
+* Email: [jeeweonj@andrew.cmu.edu](mailto:jeeweonj@andrew.cmu.edu)
 
 ---
 
