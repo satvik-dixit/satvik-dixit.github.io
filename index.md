@@ -9,6 +9,23 @@ layout: default
 - Research scientist at Naver Clova.
   - December 2020 - April 2023
 
+## Education
+
+- PhD, Computer Science and Engineering
+  - University of Seoul
+  - March 2017 - February 2021
+- BS, Computer Science and Engineering 
+  - University of Seoul
+  - March 2013 - February 2017
+- BBA
+  - University of Seoul
+  - March 2013 - February 2017
+
+## Selected honors and awards
+
+- Ranked 1st place at the DCASE 2023 Challenge task 6-a (automated audio captioning, AAC)- 2023
+- Ranked 3rd place at the Third DIHARD Speech Diarisation Challenge (track 1 core, speaker diarization, SD) - 2021
+
 ## Selected Publications
 Refer to my CV for full list of publications.
 
