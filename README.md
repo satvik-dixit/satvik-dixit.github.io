@@ -1,1 +1,1 @@
-This is a repository for the webpage of Jee-weon Jung.
+This is a repository for the webpage of Satvik Dixit.
