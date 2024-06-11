@@ -3,15 +3,13 @@ layout: default
 is_contact: true
 ---
 
-* Email: [jeeweonj@ieee.org](mailto:jeeweonj@ieee.org)
+* Email: [satvikdixit@cmu.edu](mailto:satvikdixit@cmu.edu)
 
 ---
 
 
 ## Social
 
-1. [Google Scholar](https://scholar.google.com/citations?user=A5OcLdAAAAAJ)
+1. [Twitter](https://x.com/SatvikDixit9)
 
-2. [ResearchGate](https://www.researchgate.net/profile/Jee-Weon-Jung-2)
-
-3. [LinkedIn](https://www.linkedin.com/in/jee-weon-jung-6b125bba/)
+2. [LinkedIn](https://www.linkedin.com/in/satvik-dixit/)
