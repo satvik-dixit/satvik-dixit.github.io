@@ -8,7 +8,7 @@ Previously, I worked at MIT with Professor [Satrajit Ghosh](https://sensein.grou
 
 ## Education
 
-- MS, Computer Engineering
+- M.S., Computer Engineering
   - Carnegie Mellon University
   - August 2023 - December 2024 (Expected)
 - B. Tech., Electrical Engineering 
