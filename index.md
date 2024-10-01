@@ -6,6 +6,16 @@ I am a master's student at Carnegie Mellon University. I work with Professor [Bh
 
 Previously, I worked at MIT with Professor [Satrajit Ghosh](https://sensein.group/) on the explainability of self-supervised learning (SSL) embeddings, such as WavLM, for speech emotion recognition. I have also worked at [EPFL](https://www.epfl.ch/labs/lcav/people/martin-vetterli/) on room acoustics simulation. I completed my undergraduate degree in Electrical Engineering at IIT Delhi, where my concentration was on signals and ML. My undergraduate thesis was on the classification of neuron types based on EEG signals. 
 
+## Education
+
+- MS, Computer Engineering
+  - Carnegie Mellon University
+  - August 2023 - December 2024 (Expected)
+- B. Tech., Electrical Engineering 
+  - Indian Institute of Technology, Delhi
+  - August 2019 - August 2023
+
+
 
 
 
