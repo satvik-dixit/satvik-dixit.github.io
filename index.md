@@ -14,6 +14,14 @@ Previously, I worked at MIT with Professor [Satrajit Ghosh](https://sensein.grou
 - B. Tech., Electrical Engineering 
   - Indian Institute of Technology, Delhi
   - August 2019 - August 2023
+ 
+## Selected Publications
+#### Explaining Deep Learning Embeddings for Speech Emotion Recognition by Predicting Interpretable Acoustic Features
+Satvik Dixit, Daniel M. Low, Gasser Elbanna, Fabio Catania, Satrajit S. Ghosh
+- [[Code](https://github.com/satvik-dixit/explainability_SER/tree/main)]
+- [[Paper](https://www.arxiv.org/abs/2409.09511)]
+
+  
 
 
 
