@@ -15,6 +15,28 @@ Previously, I worked at MIT with Professor [Satrajit Ghosh](https://sensein.grou
   - Indian Institute of Technology, Delhi
   - August 2019 - August 2023
  
+## Selected Publications
+#### Explaining Deep Learning Embeddings for Speech Emotion Recognition by Predicting Interpretable Acoustic Features
+**Satvik Dixit**, Daniel M. Low, Gasser Elbanna, Fabio Catania, Satrajit S. Ghosh
+- Submitted to ICASSP 2025 (Main)
+- [[Paper](https://www.arxiv.org/abs/2409.09511)]
+- [[Code](https://github.com/satvik-dixit/explainability_SER/tree/main)]
+
+#### Improving Speaker Representations Using Contrastive Losses on Multi-scale Features
+**Satvik Dixit**, Massa Baali, Rita Singh, Bhiksha Raj
+- Submitted to ICASSP 2025 (Main)
+- [[Paper](https://arxiv.org/abs/2410.05037)]
+- [[Code](https://github.com/satvik-dixit/MFCon/tree/main)]
+
+#### Vision Language Models Are Few-Shot Audio Spectrogram Classifiers 
+**Satvik Dixit**, Laurie Heller, Chris Donahue
+- Accepted at NeuRIPS Audio Imagination Workshop
+- [[Paper](https://openreview.net/pdf?id=RnBAclRKOC)]
+
+#### MACE: Leveraging Audio for Evaluating Audio Captioning Systems 
+**Satvik Dixit**, Soham Deshmukh, Bhiksha Raj
+- Submitted to ICASSP 2025 Speech and Audio Language Models (SALMA) Workshop
+ 
 
 
 
