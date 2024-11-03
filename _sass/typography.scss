@@ -37,12 +37,12 @@
         font-style: italic;
     }
     .profile-picture {
-        width: 200px;  // Changed from $image-size
+        width: 200px;  // Changed from 150px to 200px
         height: auto;  // Allow height to adjust with aspect ratio
         position: relative;
-        margin: 0 15px 10px 0;  // Changed margin to move to left
-        float: left;  // Changed from right to left
-        border-radius: 4px;  // Changed from 50% to 4px for rectangle shape
+        margin: 0 15px 10px 0;  
+        float: left;  
+        border-radius: 4px;  
         p & {
             padding: 0;
             margin: 0;
