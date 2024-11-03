@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Profile Picture](/assets/img/profile.jpg)
+![Profile Picture](/assets/img/profile.jpg){:.profile-picture}
 
 I am a master's student at Carnegie Mellon University. I work with Professor [Bhiksha Raj](https://cmu-mlsp.github.io/team/bhiksha_raj) on Speech Processing and Audio Language Models, and Professor [Chris Donahue](https://chrisdonahue.com/) on Text-to-Audio Models. My research interests focus on speech/audio processing and LLMs.
 
