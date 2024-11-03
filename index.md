@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Profile Picture](/assets/img/profile.jpg){:.profile-picture}
+<img src="/assets/img/profile.jpg" alt="Profile" style="width: 150px;">
 
 I am a master's student at Carnegie Mellon University. I work with Professor [Bhiksha Raj](https://cmu-mlsp.github.io/team/bhiksha_raj) on Speech Processing and Audio Language Models, and Professor [Chris Donahue](https://chrisdonahue.com/) on Text-to-Audio Models. My research interests focus on speech/audio processing and LLMs.
 
@@ -21,7 +21,7 @@ Previously, I worked at MIT with Professor [Satrajit Ghosh](https://sensein.grou
 ## Selected Publications
 
 <div class="publication">
-  <img src="/assets/img/paper_1.jpg" alt="Speech Emotion Recognition Preview" class="publication-image">
+  <img src="/assets/img/paper_1.png" alt="Speech Emotion Recognition Preview" class="publication-image" style="width: 300px;">
   <div class="publication-content">
     <h4>Explaining Deep Learning Embeddings for Speech Emotion Recognition by Predicting Interpretable Acoustic Features</h4>
     <p><strong>Satvik Dixit</strong>, Daniel M. Low, Gasser Elbanna, Fabio Catania, Satrajit S. Ghosh</p>
@@ -33,7 +33,7 @@ Previously, I worked at MIT with Professor [Satrajit Ghosh](https://sensein.grou
   </div>
 </div>
 <div class="publication">
-  <img src="/assets/img/paper_2.jpg" alt="Speaker Representations Preview" class="publication-image">
+  <img src="/assets/img/paper_2.png" alt="Speaker Representations Preview" class="publication-image" style="width: 300px;">
   <div class="publication-content">
     <h4>Improving Speaker Representations Using Contrastive Losses on Multi-scale Features</h4>
     <p><strong>Satvik Dixit</strong>, Massa Baali, Rita Singh, Bhiksha Raj</p>
@@ -45,7 +45,7 @@ Previously, I worked at MIT with Professor [Satrajit Ghosh](https://sensein.grou
   </div>
 </div>
 <div class="publication">
-  <img src="/assets/img/paper_3.jpg" alt="Vision Language Models Preview" class="publication-image">
+  <img src="/assets/img/paper_3.png" alt="Vision Language Models Preview" class="publication-image" style="width: 300px;">
   <div class="publication-content">
     <h4>Vision Language Models Are Few-Shot Audio Spectrogram Classifiers</h4>
     <p><strong>Satvik Dixit</strong>, Laurie Heller, Chris Donahue</p>
@@ -56,7 +56,7 @@ Previously, I worked at MIT with Professor [Satrajit Ghosh](https://sensein.grou
   </div>
 </div>
 <div class="publication">
-  <img src="/assets/img/paper_4.jpg" alt="MACE Preview" class="publication-image">
+  <img src="/assets/img/paper_4.png" alt="MACE Preview" class="publication-image" style="width: 300px;">
   <div class="publication-content">
     <h4>MACE: Leveraging Audio for Evaluating Audio Captioning Systems</h4>
     <p><strong>Satvik Dixit</strong>, Soham Deshmukh, Bhiksha Raj</p>
