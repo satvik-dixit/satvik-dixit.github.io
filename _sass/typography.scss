@@ -57,4 +57,43 @@
         text-align: center;
         width: 100%;
     }
+
+    .publication {
+        display: flex;
+        gap: 20px;
+        margin-bottom: 30px;
+        align-items: flex-start;
+        
+        @media (max-width: $small-width) {
+            flex-direction: column;
+        }
+        
+        .publication-image {
+            width: 200px;
+            height: auto;
+            object-fit: cover;
+            border-radius: 4px;
+            
+            @media (max-width: $small-width) {
+                width: 100%;
+            }
+        }
+        
+        .publication-content {
+            flex: 1;
+            
+            h4 {
+                margin-top: 0;
+                margin-bottom: 10px;
+            }
+            
+            ul {
+                margin-top: 10px;
+            }
+        }
+    }
 }
+
+
+
+
