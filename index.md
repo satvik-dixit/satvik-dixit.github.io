@@ -60,8 +60,8 @@ Previously, I worked at MIT with Professor [Satrajit Ghosh](https://sensein.grou
     <p><strong>Satvik Dixit</strong>, Soham Deshmukh, Bhiksha Raj</p>
     <ul>
       <li>Under review at ICASSP 2025 Speech and Audio Language Models (SALMA) Workshop</li>
-      <li><a href="https://github.com/satvik-dixit/mace/tree/main">Code</a></li>
       <li><a href="https://arxiv.org/abs/2411.00321">Paper</a></li>
+      <li><a href="https://github.com/satvik-dixit/mace/tree/main">Code</a></li>
     </ul>
   </div>
 </div>
