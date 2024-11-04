@@ -24,7 +24,7 @@ Previously, I worked at MIT with Professor [Satrajit Ghosh](https://sensein.grou
     <h4>Explaining Deep Learning Embeddings for Speech Emotion Recognition by Predicting Interpretable Acoustic Features</h4>
     <p><strong>Satvik Dixit</strong>, Daniel M. Low, Gasser Elbanna, Fabio Catania, Satrajit S. Ghosh</p>
     <ul>
-      <li>Submitted to ICASSP 2025 (Main)</li>
+      <li>Under review at ICASSP 2025 (Main)</li>
       <li><a href="https://www.arxiv.org/abs/2409.09511">Paper</a></li>
       <li><a href="https://github.com/satvik-dixit/explainability_SER/tree/main">Code</a></li>
     </ul>
@@ -36,7 +36,7 @@ Previously, I worked at MIT with Professor [Satrajit Ghosh](https://sensein.grou
     <h4>Improving Speaker Representations Using Contrastive Losses on Multi-scale Features</h4>
     <p><strong>Satvik Dixit</strong>, Massa Baali, Rita Singh, Bhiksha Raj</p>
     <ul>
-      <li>Submitted to ICASSP 2025 (Main)</li>
+      <li>Under review at ICASSP 2025 (Main)</li>
       <li><a href="https://arxiv.org/abs/2410.05037">Paper</a></li>
       <li><a href="https://github.com/satvik-dixit/MFCon/tree/main">Code</a></li>
     </ul>
@@ -59,8 +59,9 @@ Previously, I worked at MIT with Professor [Satrajit Ghosh](https://sensein.grou
     <h4>MACE: Leveraging Audio for Evaluating Audio Captioning Systems</h4>
     <p><strong>Satvik Dixit</strong>, Soham Deshmukh, Bhiksha Raj</p>
     <ul>
-      <li>Submitted to ICASSP 2025 Speech and Audio Language Models (SALMA) Workshop</li>
+      <li>Under review at ICASSP 2025 Speech and Audio Language Models (SALMA) Workshop</li>
       <li><a href="https://github.com/satvik-dixit/mace/tree/main">Code</a></li>
+      <li><a href="https://arxiv.org/abs/2411.00321">Paper</a></li>
     </ul>
   </div>
 </div>
