@@ -19,7 +19,7 @@ Previously, I worked at MIT with Professor [Satrajit Ghosh](https://sensein.grou
 ## Selected Publications
 
 <div class="publication">
-  <img src="/assets/img/paper_1.png" alt="Speech Emotion Recognition Preview" class="publication-image" style="width: 300px;">
+  <img src="/assets/img/paper_2.png" alt="Speech Emotion Recognition Preview" class="publication-image" style="width: 300px;">
   <div class="publication-content">
     <h4>Explaining Deep Learning Embeddings for Speech Emotion Recognition by Predicting Interpretable Acoustic Features</h4>
     <p><strong>Satvik Dixit</strong>, Daniel M. Low, Gasser Elbanna, Fabio Catania, Satrajit S. Ghosh</p>
@@ -31,7 +31,7 @@ Previously, I worked at MIT with Professor [Satrajit Ghosh](https://sensein.grou
   </div>
 </div>
 <div class="publication">
-  <img src="/assets/img/paper_2.png" alt="Speaker Representations Preview" class="publication-image" style="width: 300px;">
+  <img src="/assets/img/paper_1.png" alt="Speaker Representations Preview" class="publication-image" style="width: 300px;">
   <div class="publication-content">
     <h4>Improving Speaker Representations Using Contrastive Losses on Multi-scale Features</h4>
     <p><strong>Satvik Dixit</strong>, Massa Baali, Rita Singh, Bhiksha Raj</p>
