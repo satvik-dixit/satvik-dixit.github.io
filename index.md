@@ -19,14 +19,25 @@ Previously, I worked at MIT with Professor [Satrajit Ghosh](https://sensein.grou
 ## Selected Publications
 
 <div class="publication">
-  <img src="/assets/img/paper_2.png" alt="Speech Emotion Recognition Preview" class="publication-image" style="width: 300px;">
+  <img src="/assets/img/paper_4.png" alt="MACE Preview" class="publication-image" style="width: 300px;">
   <div class="publication-content">
-    <h4>Explaining Deep Learning Embeddings for Speech Emotion Recognition by Predicting Interpretable Acoustic Features</h4>
-    <p><strong>Satvik Dixit</strong>, Daniel M. Low, Gasser Elbanna, Fabio Catania, Satrajit S. Ghosh</p>
+    <h4>MACE: Leveraging Audio for Evaluating Audio Captioning Systems</h4>
+    <p><strong>Satvik Dixit</strong>, Soham Deshmukh, Bhiksha Raj</p>
     <ul>
-      <li>Under review at ICASSP 2025 (Main)</li>
-      <li><a href="https://www.arxiv.org/abs/2409.09511">Paper</a></li>
-      <li><a href="https://github.com/satvik-dixit/explainability_SER/tree/main">Code</a></li>
+      <li>Under review at ICASSP 2025 Speech and Audio Language Models (SALMA) Workshop</li>
+      <li><a href="https://arxiv.org/abs/2411.00321">Paper</a></li>
+      <li><a href="https://github.com/satvik-dixit/mace/tree/main">Code</a></li>
+    </ul>
+  </div>
+</div>
+<div class="publication">
+  <img src="/assets/img/paper_3.png" alt="Vision Language Models Preview" class="publication-image" style="width: 300px;">
+  <div class="publication-content">
+    <h4>Vision Language Models Are Few-Shot Audio Spectrogram Classifiers</h4>
+    <p><strong>Satvik Dixit</strong>, Laurie Heller, Chris Donahue</p>
+    <ul>
+      <li>Accepted at NeuRIPS Audio Imagination Workshop</li>
+      <li><a href="https://openreview.net/pdf?id=RnBAclRKOC">Paper</a></li>
     </ul>
   </div>
 </div>
@@ -43,25 +54,14 @@ Previously, I worked at MIT with Professor [Satrajit Ghosh](https://sensein.grou
   </div>
 </div>
 <div class="publication">
-  <img src="/assets/img/paper_3.png" alt="Vision Language Models Preview" class="publication-image" style="width: 300px;">
+  <img src="/assets/img/paper_2.png" alt="Speech Emotion Recognition Preview" class="publication-image" style="width: 300px;">
   <div class="publication-content">
-    <h4>Vision Language Models Are Few-Shot Audio Spectrogram Classifiers</h4>
-    <p><strong>Satvik Dixit</strong>, Laurie Heller, Chris Donahue</p>
+    <h4>Explaining Deep Learning Embeddings for Speech Emotion Recognition by Predicting Interpretable Acoustic Features</h4>
+    <p><strong>Satvik Dixit</strong>, Daniel M. Low, Gasser Elbanna, Fabio Catania, Satrajit S. Ghosh</p>
     <ul>
-      <li>Accepted at NeuRIPS Audio Imagination Workshop</li>
-      <li><a href="https://openreview.net/pdf?id=RnBAclRKOC">Paper</a></li>
-    </ul>
-  </div>
-</div>
-<div class="publication">
-  <img src="/assets/img/paper_4.png" alt="MACE Preview" class="publication-image" style="width: 300px;">
-  <div class="publication-content">
-    <h4>MACE: Leveraging Audio for Evaluating Audio Captioning Systems</h4>
-    <p><strong>Satvik Dixit</strong>, Soham Deshmukh, Bhiksha Raj</p>
-    <ul>
-      <li>Under review at ICASSP 2025 Speech and Audio Language Models (SALMA) Workshop</li>
-      <li><a href="https://arxiv.org/abs/2411.00321">Paper</a></li>
-      <li><a href="https://github.com/satvik-dixit/mace/tree/main">Code</a></li>
+      <li>Under review at ICASSP 2025 (Main)</li>
+      <li><a href="https://www.arxiv.org/abs/2409.09511">Paper</a></li>
+      <li><a href="https://github.com/satvik-dixit/explainability_SER/tree/main">Code</a></li>
     </ul>
   </div>
 </div>
