@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="intro-section">
-  <img src="/assets/img/profile.jpg" alt="Satvik Dixit" class="profile-picture-small">
+  <img src="/assets/img/picture.jpg" alt="Satvik Dixit" class="profile-picture-small">
   <div class="intro-text">
     I am a master's student at Carnegie Mellon University. I work with Professor [Bhiksha Raj](https://cmu-mlsp.github.io/team/bhiksha_raj) on Audio Language Models and Professor [Chris Donahue](https://chrisdonahue.com/) on Generative Audio. I am interested in audio understanding and generation.
 
