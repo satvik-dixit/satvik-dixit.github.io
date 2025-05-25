@@ -12,13 +12,6 @@ Previously, I interned with Dr [Satrajit Ghosh](https://sensein.group/) at MIT a
   </div>
 </div>
 
-## Education
-- M.S., Computer Engineering
-  - Carnegie Mellon University
-  - August 2023 - December 2024 
-- B. Tech., Electrical Engineering 
-  - Indian Institute of Technology, Delhi
-  - August 2019 - August 2023
 
 ## Selected Publications and Preprints
 <div class="publication">
