@@ -42,7 +42,7 @@ Previously, I interned with Dr <a href="https://sensein.group/">Satrajit Ghosh</
 </div>
 
 <div class="publication">
-  <img src="/assets/img/paper_3.png" alt="Vision Language Models Preview" class="publication-image" style="width: 300px;">
+  <img src="/assets/img/paper_3_updated.png" alt="Vision Language Models Preview" class="publication-image" style="width: 300px;">
   <div class="publication-content">
     <h4>Vision Language Models Are Few-Shot Audio Spectrogram Classifiers</h4>
     <p><strong>Satvik Dixit</strong>, Laurie Heller, Chris Donahue</p>
