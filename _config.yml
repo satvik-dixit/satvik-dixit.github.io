@@ -1,23 +1,17 @@
+
 title: Satvik Dixit
 url: "https://satvikd.github.io"
 baseurl: ""
-
 markdown: kramdown
-
 tracking_id: #
-
 footer: no
 footer_url: "https://github.com/ankitsultana"
 footer_text: "Designed by Ankit Sultana and Jee-weon Jung, adapted by Satvik Dixit."
-
 sass:
     style: compressed
     sass_dir: _sass
-
 nav:
  - name: "About"
    link: "./"
  - name: "CV"
    link: "Satvik_CV.pdf"
- - name: "Contact"
-   link: "contact"
