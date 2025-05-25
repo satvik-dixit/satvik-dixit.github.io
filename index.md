@@ -6,9 +6,9 @@ layout: default
 <img src="/assets/img/picture.jpg" alt="Satvik Dixit" class="profile-picture-small">
 <div class="intro-text">
   
-I am a master's student at Carnegie Mellon University. I work with Professor [Bhiksha Raj](https://cmu-mlsp.github.io/team/bhiksha_raj) on Audio Language Models and Professor [Chris Donahue](https://chrisdonahue.com/) on Generative Audio. I am interested in audio understanding and generation.
+I am a master's student at Carnegie Mellon University. I work with Professor <a href="https://cmu-mlsp.github.io/team/bhiksha_raj">Bhiksha Raj</a> on Audio Language Models and Professor <a href="https://chrisdonahue.com/">Chris Donahue</a> on Generative Audio. I am interested in audio understanding and generation.
 
-Previously, I interned with Dr [Satrajit Ghosh](https://sensein.group/) at MIT and Dr [Martin Vetterli](https://www.epfl.ch/labs/lcav/people/martin-vetterli/) at EPFL. I completed my undergraduate degree in Electrical Engineering at IIT Delhi, where my concentration was on signals processing and ML.
+Previously, I interned with Dr <a href="https://sensein.group/">Satrajit Ghosh</a> at MIT and Dr <a href="https://www.epfl.ch/labs/lcav/people/martin-vetterli/">Martin Vetterli</a> at EPFL. I completed my undergraduate degree in Electrical Engineering at IIT Delhi, where my concentration was on signals processing and ML.
 
 </div>
 </div>
