@@ -29,7 +29,7 @@ Previously, I interned with Dr <a href="https://sensein.group/">Satrajit Ghosh</
 </div>
 
 <div class="publication">
-  <img src="/assets/img/paper_4.png" alt="MACE Preview" class="publication-image" style="width: 300px;">
+  <img src="/assets/img/paper_4_updated.png" alt="MACE Preview" class="publication-image" style="width: 300px;">
   <div class="publication-content">
     <h4>MACE: Leveraging Audio for Evaluating Audio Captioning Systems</h4>
     <p><strong>Satvik Dixit</strong>, Soham Deshmukh, Bhiksha Raj</p>
