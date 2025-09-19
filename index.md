@@ -21,7 +21,7 @@ Previously, I interned with Dr <a href="https://sensein.group/">Satrajit Ghosh</
     <h4>Mellow: a small audio language model for reasoning</h4>
     <p>Soham Deshmukh, <strong>Satvik Dixit</strong>, Rita Singh, Bhiksha Raj</p>
     <ul>
-      <li>Under review</li>
+      <li>NeurIPS 2025</li>
       <li><a href="https://arxiv.org/abs/2503.08540">Paper</a></li>
       <li><a href="https://github.com/soham97/mellow">Code</a></li>
     </ul>
