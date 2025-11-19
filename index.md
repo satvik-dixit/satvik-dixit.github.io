@@ -54,8 +54,8 @@ Previously, I interned with Dr <a href="https://sensein.group/">Satrajit Ghosh</
 </div>
 
 ## Contact & Links
-- **Email:** [satvikdixit@cmu.edu](mailto:satvikdixit@cmu.edu)
-- **Google Scholar:** [Google Scholar](https://scholar.google.com/citations?user=fO8a44AAAAAJ&hl=en)
+- **Email:** [satvikdixit@cmu.edu](mailto:satvikdixit7@gmail.com)
+- **Google Scholar:** [Google Scholar](https://scholar.google.com/citations?user=UNx0GHAAAAAJ&hl=en)
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/satvik-dixit/)
 
 <br>
