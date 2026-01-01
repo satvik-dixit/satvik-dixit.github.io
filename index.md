@@ -3,18 +3,59 @@ layout: default
 ---
 
 <div class="intro-section">
-<img src="/assets/img/picture.jpg" alt="Satvik Dixit" class="profile-picture-small">
-<div class="intro-text">
-  
-I am a master's student at Carnegie Mellon University. I work with Professor <a href="https://chrisdonahue.com/">Chris Donahue</a> on Generative Audio and Professor <a href="https://cmu-mlsp.github.io/team/bhiksha_raj">Bhiksha Raj</a> on Audio Language Models. I am interested in audio understanding and generation.
+  <img src="/assets/img/picture.jpg" alt="Satvik Dixit" class="profile-picture-small">
+  <div class="intro-text">
 
-Previously, I interned with Dr <a href="https://sensein.group/">Satrajit Ghosh</a> at MIT and Dr <a href="https://www.epfl.ch/labs/lcav/people/martin-vetterli/">Martin Vetterli</a> at EPFL. I completed my undergraduate degree in Electrical Engineering at IIT Delhi, where my concentration was on signals processing and ML.
+My research focuses on building efficient audio-centric models and evaluation methods for evolving real-world applications and workflows.
 
+I’ve worked on:
+<ul>
+<li>Efficient audio-language models (<a href="https://arxiv.org/abs/2503.08540">Mellow</a>) </li>
+<li>Evaluation metrics that align with human judgments (<a href="https://arxiv.org/abs/2510.04934">AURA Score</a>, <a href="https://arxiv.org/abs/2411.00321">MACE</a>)</li>
+<li>Benchmarks for audio generation and understanding (<a href="https://gclef-cmu.org/foleybench/">FoleyBench</a>, <a href="https://sonalkum.github.io/mmau-pro">MMAU-Pro</a>)</li>
+</ul>
+
+Currently, I am a founding engineer at a YC-backed startup working on voice agent evals. Previously, I was a research assistant at CMU working with <a href="https://chrisdonahue.com/">Chris Donahue</a> and <a href="https://cmu-mlsp.github.io/team/bhiksha_raj/">Bhiksha Raj</a>, where I worked on models and evaluation methods for audio-based systems. I have also done research internships at <a href="https://sensein.group/">MIT</a> and <a href="https://www.epfl.ch/labs/lcav/">EPFL</a>. Before that, I studied electrical engineering at IIT Delhi.
+
+  </div>
 </div>
-</div>
 
+<div class="news-section">
+  <h2>News</h2>
+  <ul>
+    <li>Nov 2025: <a href="https://gclef-cmu.org/foleybench/">FoleyBench</a> released</li>
+    <li>Nov 2025: <a href="https://arxiv.org/abs/2508.13992">MMAU-Pro</a> accepted to AAAI 2026</li>
+    <li>Sept 2025: <a href="https://arxiv.org/abs/2503.08540">Mellow</a> accepted to NeurIPS 2025</li>
+    <li>July 2025: Work on <a href="https://arxiv.org/abs/2506.01588">Morphing</a> accepted to WASPAA 2025</li>
+    <li>Jan 2025: <a href="https://arxiv.org/abs/2411.00321v1">MACE</a> accepted to ICASSP SALMA 2025</li>
+  </ul>
+</div>
 
 ## Selected Publications and Preprints
+<div class="publication">
+  <img src="/assets/img/main_fig.png" alt="AURA Score Preview" class="publication-image" style="width: 300px;">
+  <div class="publication-content">
+    <h4>AURA Score: A Metric For Holistic Audio Question Answering Evaluation</h4>
+    <p><strong>Satvik Dixit</strong>, Soham Deshmukh, Bhiksha Raj</p>
+    <ul>
+      <li>Submitted to ICASSP 2026</li>
+      <li><a href="https://arxiv.org/abs/2510.04934">Paper</a></li>
+    </ul>
+  </div>
+</div>
+
+<div class="publication">
+  <img src="/assets/img/fig.png" alt="FoleyBench Preview" class="publication-image" style="width: 300px;">
+  <div class="publication-content">
+    <h4>FoleyBench: A Benchmark For Video-to-Audio Models</h4>
+    <p><strong>Satvik Dixit</strong>, Koichi Saito, Zhi Zhong, Yuki Mitsufuji, Chris Donahue</p>
+    <ul>
+      <li>Submitted to ICASSP 2026</li>
+      <li><a href="https://arxiv.org/abs/2511.13219">Paper</a></li>
+    </ul>
+  </div>
+</div>
+
 <div class="publication">
   <img src="/assets/img/paper_5.png" alt="Mellow Preview" class="publication-image" style="width: 300px;">
   <div class="publication-content">
@@ -35,7 +76,7 @@ Previously, I interned with Dr <a href="https://sensein.group/">Satrajit Ghosh</
     <p><strong>Satvik Dixit</strong>, Soham Deshmukh, Bhiksha Raj</p>
     <ul>
       <li>ICASSP 2025 Speech and Audio Language Models (SALMA) Workshop</li>
-      <li><a href="https://arxiv.org/abs/2411.00321">Paper</a></li>
+      <li><a href="https://arxiv.org/abs/2411.00321v1">Paper</a></li>
       <li><a href="https://github.com/satvik-dixit/mace/tree/main">Code</a></li>
     </ul>
   </div>
@@ -47,7 +88,7 @@ Previously, I interned with Dr <a href="https://sensein.group/">Satrajit Ghosh</
     <h4>Vision Language Models Are Few-Shot Audio Spectrogram Classifiers</h4>
     <p><strong>Satvik Dixit</strong>, Laurie Heller, Chris Donahue</p>
     <ul>
-      <li>NeuRIPS 2024 Audio Imagination Workshop</li>
+      <li>NeurIPS 2024 Audio Imagination Workshop</li>
       <li><a href="https://openreview.net/pdf?id=RnBAclRKOC">Paper</a></li>
     </ul>
   </div>

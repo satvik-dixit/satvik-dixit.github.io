@@ -11,12 +11,15 @@ html {
 }
 body {
     margin: 0;
-    font-family: "Inconsolata";
+    font-family: -apple-system, "system-ui", "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif;
     height: 100%;
+    font-size: 16px;
+    line-height: 25.6px;
+    color: rgb(0, 0, 0);
 }
 a {
     text-decoration: none;
-    color: $accent;
+    color: rgb(0, 0, 0);
 }
 a:hover {
     text-decoration: underline;
@@ -34,7 +37,8 @@ hr {
 
 #author-name {
     font-size: 30px;
-    color: #272727;
+    font-weight: 600;
+    color: rgb(0, 0, 0);
     display: inline-block;
 }
 .navbar {
