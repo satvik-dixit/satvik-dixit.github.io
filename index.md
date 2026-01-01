@@ -33,69 +33,56 @@ Currently, I am a founding engineer at a YC-backed startup working on voice agen
 
 ## Selected Publications and Preprints
 <div class="publication">
-  <img src="/assets/img/main_fig.png" alt="AURA Score Preview" class="publication-image" style="width: 300px;">
-  <div class="publication-content">
-    <h4>AURA Score: A Metric For Holistic Audio Question Answering Evaluation</h4>
-    <p><strong>Satvik Dixit</strong>, Soham Deshmukh, Bhiksha Raj</p>
-    <ul>
-      <li>Submitted to ICASSP 2026</li>
-      <li><a href="https://arxiv.org/abs/2510.04934">Paper</a></li>
-    </ul>
-  </div>
-</div>
-
-<div class="publication">
-  <img src="/assets/img/fig.png" alt="FoleyBench Preview" class="publication-image" style="width: 300px;">
-  <div class="publication-content">
-    <h4>FoleyBench: A Benchmark For Video-to-Audio Models</h4>
-    <p><strong>Satvik Dixit</strong>, Koichi Saito, Zhi Zhong, Yuki Mitsufuji, Chris Donahue</p>
-    <ul>
-      <li>Submitted to ICASSP 2026</li>
-      <li><a href="https://arxiv.org/abs/2511.13219">Paper</a></li>
-    </ul>
-  </div>
-</div>
-
-<div class="publication">
-  <img src="/assets/img/paper_5.png" alt="Mellow Preview" class="publication-image" style="width: 300px;">
+  <img src="/assets/img/paper_5.png" alt="Mellow Preview" class="publication-image">
   <div class="publication-content">
     <h4>Mellow: a small audio language model for reasoning</h4>
-    <p>Soham Deshmukh, <strong>Satvik Dixit</strong>, Rita Singh, Bhiksha Raj</p>
-    <ul>
-      <li>NeurIPS 2025</li>
-      <li><a href="https://arxiv.org/abs/2503.08540">Paper</a></li>
-      <li><a href="https://github.com/soham97/mellow">Code</a></li>
-    </ul>
+    <p class="publication-authors">Soham Deshmukh, <strong>Satvik Dixit</strong>, Rita Singh, Bhiksha Raj</p>
+    <p class="publication-venue">NeurIPS 2025</p>
+    <div class="publication-links">
+      <a href="https://arxiv.org/abs/2503.08540">Paper</a>
+      <a href="https://github.com/soham97/mellow">Code</a>
+    </div>
   </div>
 </div>
 
 <div class="publication">
-  <img src="/assets/img/paper_4_updated.png" alt="MACE Preview" class="publication-image" style="width: 300px;">
+  <img src="/assets/img/fig.png" alt="FoleyBench Preview" class="publication-image">
   <div class="publication-content">
-    <h4>MACE: Leveraging Audio for Evaluating Audio Captioning Systems</h4>
-    <p><strong>Satvik Dixit</strong>, Soham Deshmukh, Bhiksha Raj</p>
-    <ul>
-      <li>ICASSP 2025 Speech and Audio Language Models (SALMA) Workshop</li>
-      <li><a href="https://arxiv.org/abs/2411.00321v1">Paper</a></li>
-      <li><a href="https://github.com/satvik-dixit/mace/tree/main">Code</a></li>
-    </ul>
+    <h4>FoleyBench: A Benchmark For Video-to-Audio Models</h4>
+    <p class="publication-authors"><strong>Satvik Dixit</strong>, Koichi Saito, Zhi Zhong, Yuki Mitsufuji, Chris Donahue</p>
+    <p class="publication-venue">Submitted to ICASSP 2026</p>
+    <div class="publication-links">
+      <a href="https://arxiv.org/abs/2511.13219">Paper</a>
+    </div>
   </div>
 </div>
 
 <div class="publication">
-  <img src="/assets/img/paper_3_new.png" alt="Vision Language Models Preview" class="publication-image" style="width: 300px;">
+  <img src="/assets/img/main_fig.png" alt="AURA Score Preview" class="publication-image">
+  <div class="publication-content">
+    <h4>AURA Score: A Metric For Holistic Audio Question Answering Evaluation</h4>
+    <p class="publication-authors"><strong>Satvik Dixit</strong>, Soham Deshmukh, Bhiksha Raj</p>
+    <p class="publication-venue">Submitted to ICASSP 2026</p>
+    <div class="publication-links">
+      <a href="https://arxiv.org/abs/2510.04934">Paper</a>
+    </div>
+  </div>
+</div>
+
+<div class="publication">
+  <img src="/assets/img/paper_3_new.png" alt="Vision Language Models Preview" class="publication-image">
   <div class="publication-content">
     <h4>Vision Language Models Are Few-Shot Audio Spectrogram Classifiers</h4>
-    <p><strong>Satvik Dixit</strong>, Laurie Heller, Chris Donahue</p>
-    <ul>
-      <li>NeurIPS 2024 Audio Imagination Workshop</li>
-      <li><a href="https://openreview.net/pdf?id=RnBAclRKOC">Paper</a></li>
-    </ul>
+    <p class="publication-authors"><strong>Satvik Dixit</strong>, Laurie Heller, Chris Donahue</p>
+    <p class="publication-venue">NeurIPS 2024 Audio Imagination Workshop</p>
+    <div class="publication-links">
+      <a href="https://openreview.net/pdf?id=RnBAclRKOC">Paper</a>
+    </div>
   </div>
 </div>
 
 ## Contact & Links
-- **Email:** [satvikdixit@cmu.edu](mailto:satvikdixit7@gmail.com)
+- **Email:** [satvikdixit7@gmail.com](mailto:satvikdixit7@gmail.com)
 - **Google Scholar:** [Google Scholar](https://scholar.google.com/citations?user=UNx0GHAAAAAJ&hl=en)
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/satvik-dixit/)
 
