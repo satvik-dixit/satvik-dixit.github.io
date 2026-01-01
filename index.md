@@ -8,7 +8,7 @@ layout: default
 
 My research focuses on building efficient audio-centric models and evaluation methods for evolving real-world applications and workflows.
 
-I’ve worked on:
+I've worked on:
 <ul>
 <li>Efficient audio-language models (<a href="https://arxiv.org/abs/2503.08540">Mellow</a>) </li>
 <li>Evaluation metrics that align with human judgments (<a href="https://arxiv.org/abs/2510.04934">AURA Score</a>, <a href="https://arxiv.org/abs/2411.00321">MACE</a>)</li>
@@ -20,6 +20,9 @@ Currently, I am a founding engineer at a YC-backed startup working on voice agen
   </div>
 </div>
 
+<div class="main-content-wrapper">
+  <div class="sidebar-spacer"></div>
+  <div class="content-right">
 <div class="news-section">
   <h2>News</h2>
   <ul>
@@ -82,9 +85,14 @@ Currently, I am a founding engineer at a YC-backed startup working on voice agen
 </div>
 
 ## Contact & Links
-- **Email:** [satvikdixit7@gmail.com](mailto:satvikdixit7@gmail.com)
-- **Google Scholar:** [Google Scholar](https://scholar.google.com/citations?user=UNx0GHAAAAAJ&hl=en)
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/satvik-dixit/)
+<div class="contact-links">
+  <a href="mailto:satvikdixit7@gmail.com">Email</a>
+  <a href="https://scholar.google.com/citations?user=UNx0GHAAAAAJ&hl=en">Google Scholar</a>
+  <a href="https://www.linkedin.com/in/satvik-dixit/">LinkedIn</a>
+</div>
+
+  </div>
+</div>
 
 <br>
 <br>
