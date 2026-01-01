@@ -56,6 +56,7 @@ Currently, I am a founding engineer at a YC-backed startup working on voice agen
     <p class="publication-venue">Submitted to <strong>ICASSP 2026</strong></p>
     <div class="publication-links">
       <a href="https://arxiv.org/abs/2511.13219">Paper</a>
+      <a href="https://gclef-cmu.org/foleybench/">Page</a>
     </div>
   </div>
 </div>
@@ -68,6 +69,7 @@ Currently, I am a founding engineer at a YC-backed startup working on voice agen
     <p class="publication-venue">Submitted to <strong>ICASSP 2026</strong></p>
     <div class="publication-links">
       <a href="https://arxiv.org/abs/2510.04934">Paper</a>
+      <a href="https://github.com/satvik-dixit/AURA">Code</a>
     </div>
   </div>
 </div>
@@ -84,10 +86,11 @@ Currently, I am a founding engineer at a YC-backed startup working on voice agen
   </div>
 </div>
 
-<h2>Contact & Links</h2>
+<h2>Contact</h2>
 <div class="contact-links">
   <a href="mailto:satvikdixit7@gmail.com">Email</a>
   <a href="https://scholar.google.com/citations?user=UNx0GHAAAAAJ&hl=en">Google Scholar</a>
+  <a href="https://www.semanticscholar.org/author/Satvik-Dixit/2104064059">Semantic Scholar</a>
   <a href="https://www.linkedin.com/in/satvik-dixit/">LinkedIn</a>
 </div>
 

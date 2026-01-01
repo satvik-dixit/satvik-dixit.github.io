@@ -152,16 +152,16 @@
         a {
             display: inline-block;
             padding: 4px 12px;
-            background-color: #E8F4F8;
-            color: #5DA5DA;
+            background-color: #E5E5E5;
+            color: #333333;
             border-radius: 4px;
             font-size: 13px;
             text-decoration: none;
-            border: 1px solid #B8D4E3;
+            border: 1px solid #CCCCCC;
             transition: background-color 0.2s;
             
             &:hover {
-                background-color: #D0E8F2;
+                background-color: #D5D5D5;
                 text-decoration: none;
             }
         }
@@ -199,8 +199,8 @@
     
     .publication {
         display: flex;
-        gap: 15px;
-        margin-bottom: 32px;
+        gap: 20px;
+        margin-bottom: 40px;
         align-items: flex-start;
         
         @media (max-width: $small-width) {
@@ -209,6 +209,7 @@
         
         .publication-image {
             width: 150px !important;
+            min-height: 195px;
             height: auto;
             object-fit: cover;
             border-radius: 4px;
@@ -218,6 +219,7 @@
             @media (max-width: $small-width) {
                 width: 100% !important;
                 max-width: 100%;
+                min-height: auto;
             }
         }
         
@@ -226,7 +228,7 @@
             
             h4 {
                 margin-top: 0;
-                margin-bottom: 2px;
+                margin-bottom: 6px;
                 color: rgb(0, 0, 0);
                 font-weight: 600;
                 font-size: 16px;
@@ -234,36 +236,36 @@
             }
             
             .publication-authors {
-                margin: 2px 0;
+                margin: 4px 0;
                 font-size: 14px;
                 line-height: 1.4;
             }
             
             .publication-venue {
-                margin: 2px 0 6px 0;
+                margin: 4px 0 10px 0;
                 font-size: 14px;
                 line-height: 1.4;
             }
             
             .publication-links {
                 display: flex;
-                gap: 8px;
+                gap: 10px;
                 flex-wrap: wrap;
-                margin-top: 4px;
+                margin-top: 6px;
                 
                 a {
                     display: inline-block;
                     padding: 4px 12px;
-                    background-color: #E8F4F8;
-                    color: #5DA5DA;
+                    background-color: #E5E5E5;
+                    color: #333333;
                     border-radius: 4px;
                     font-size: 13px;
                     text-decoration: none;
-                    border: 1px solid #B8D4E3;
+                    border: 1px solid #CCCCCC;
                     transition: background-color 0.2s;
                     
                     &:hover {
-                        background-color: #D0E8F2;
+                        background-color: #D5D5D5;
                         text-decoration: none;
                     }
                 }
