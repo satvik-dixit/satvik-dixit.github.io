@@ -223,8 +223,10 @@
         
         .publication-image {
             width: 120px !important;
-            height: 180px !important;
-            object-fit: cover;
+            height: auto !important;
+            min-height: 135px;
+            max-height: 135px;
+            object-fit: contain;
             border-radius: 4px;
             flex-shrink: 0;
             max-width: 120px;
@@ -232,7 +234,8 @@
             @media (max-width: $small-width) {
                 width: 100% !important;
                 max-width: 100%;
-                height: auto !important;
+                max-height: none !important;
+                min-height: auto;
             }
         }
         
