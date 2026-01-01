@@ -15,7 +15,7 @@ I've worked on:
 <li>Benchmarks for audio generation and understanding (<a href="https://gclef-cmu.org/foleybench/">FoleyBench</a>, <a href="https://sonalkum.github.io/mmau-pro">MMAU-Pro</a>)</li>
 </ul>
 
-Currently, I am a founding engineer at a YC-backed startup working on voice agent evals. Previously, I was a research assistant at CMU working with <a href="https://chrisdonahue.com/">Chris Donahue</a> and <a href="https://cmu-mlsp.github.io/team/bhiksha_raj/">Bhiksha Raj</a>, where I worked on models and evaluation methods for audio-based systems. I have also done research internships at <a href="https://sensein.group/">MIT</a> and <a href="https://www.epfl.ch/labs/lcav/">EPFL</a>. Before that, I studied electrical engineering at IIT Delhi.
+Currently, I am a founding engineer at a YC-backed startup working on voice agent evals. Previously, I was a masters student at CMU advised by Professors <a href="https://chrisdonahue.com/">Chris Donahue</a> and <a href="https://cmu-mlsp.github.io/team/bhiksha_raj/">Bhiksha Raj</a>, where I worked on models and evaluation methods for audio-based systems. I have also done research internships at <a href="https://sensein.group/">MIT</a> and <a href="https://www.epfl.ch/labs/lcav/">EPFL</a>. Before that, I did my undergrad in electrical engineering at IIT Delhi.
 
   </div>
 </div>
@@ -79,7 +79,7 @@ Currently, I am a founding engineer at a YC-backed startup working on voice agen
   <div class="publication-content">
     <h4>Vision Language Models Are Few-Shot Audio Spectrogram Classifiers</h4>
     <p class="publication-authors"><strong>Satvik Dixit</strong>, Laurie Heller, Chris Donahue</p>
-    <p class="publication-venue"><strong>NeurIPS 2024</strong> Audio Imagination Workshop</p>
+    <p class="publication-venue"><strong>NeurIPS 2024 Audio Imagination Workshop</strong></p>
     <div class="publication-links">
       <a href="https://openreview.net/pdf?id=RnBAclRKOC">Paper</a>
     </div>
