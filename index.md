@@ -90,7 +90,7 @@ Currently, I am a founding engineer at a YC-backed startup working on voice agen
 <div class="contact-links">
   <a href="mailto:satvikdixit7@gmail.com">Email</a>
   <a href="https://scholar.google.com/citations?user=UNx0GHAAAAAJ&hl=en">Google Scholar</a>
-  <a href="https://www.semanticscholar.org/author/Satvik-Dixit/2104064059">Semantic Scholar</a>
+  <a href="https://www.semanticscholar.org/author/Satvik-Dixit/2222424545">Semantic Scholar</a>
   <a href="https://www.linkedin.com/in/satvik-dixit/">LinkedIn</a>
 </div>
 
