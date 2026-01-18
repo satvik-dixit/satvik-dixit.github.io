@@ -26,7 +26,7 @@ Currently, I am a founding engineer at a YC-backed startup working on voice agen
 <div class="news-section">
   <h2>News</h2>
   <ul>
-    <li>Nov 2025: <a href="https://gclef-cmu.org/foleybench/">FoleyBench</a> released</li>
+    <li>Nov 2025: <a href="https://gclef-cmu.org/foleybench/">FoleyBench</a> accepted to <strong>ICASSP 2026</strong></li>
     <li>Nov 2025: <a href="https://arxiv.org/abs/2508.13992">MMAU-Pro</a> accepted to <strong>AAAI 2026</strong></li>
     <li>Sept 2025: <a href="https://arxiv.org/abs/2503.08540">Mellow</a> accepted to <strong>NeurIPS 2025</strong></li>
     <li>July 2025: Work on <a href="https://arxiv.org/abs/2506.01588">Morphing</a> accepted to <strong>WASPAA 2025</strong></li>
